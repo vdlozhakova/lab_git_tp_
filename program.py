@@ -12,3 +12,5 @@ print(f"Разность чисел: {a - b}")
 #C5 №3
 #C5 №4
 #C4 №4
+change task 10 №1
+change task 10 №2
