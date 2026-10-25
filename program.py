@@ -1,4 +1,4 @@
-print("Start program")
+print("Start program") #C3 №3
 a = int(input("Введите первое целое число: "))
 b = int(input("Введите второе целое число: "))
 print(f"Введенные числа: {a} и {b}")
